@@ -1,5 +1,13 @@
 # upgradeshop (欲購買請私訊或寄Email)
 
+# 影片介紹(兩版本的差異僅為 Config.enablewhitelistjob = true/false)
+
+[1] https://streamable.com/k5q7g1 (公職可用版本)
+
+[2] https://streamable.com/olx2ti (公職不可用版本)
+
+# 相關須知
+
 [1] 此插件為Jonathan Peng所撰寫
 
 [2] 聯絡信箱 : arroyoisalsogood@gmail.com
